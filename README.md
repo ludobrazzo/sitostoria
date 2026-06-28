@@ -18,3 +18,4 @@ Creato dal file PDF nello ZIP caricato.
 - Argomenti: 13
 - Domande totali: 156
 - Pagine fonte: 67
+Aggiornamento: le opzioni dei quiz sono state rimescolate; la risposta corretta non resta sempre nella prima posizione.
